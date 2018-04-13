@@ -1,0 +1,3 @@
+http://example.com/banner/img
+http://example.com/banner/foo/imgraph
+http://example.com/banner/foo/img.gif
