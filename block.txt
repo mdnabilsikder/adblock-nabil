@@ -1,3 +1,10 @@
+[Adblock Plus 2.0]
+! Version:
+! Title:
+! Last modified:
+! Expires: 4 days (update frequency)
+! Homepage:
+!
 *://*.facebook.com/*change_read_status*
 *://*.messenger.com/*change_read_status*
 *://*.facebook.com/*delivery_receipts*
