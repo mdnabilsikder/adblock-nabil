@@ -1,28 +1,23 @@
-
-!block_online
+[Adblock Plus 2.0]
+! Title: Facebook-Block
+! Homepage: https://fb.me/mdnabilsikder
+!
+! block_online
 *://*-edge-chat.facebook.com/*
 
-
-
-!block_chat_seen
+! block_chat_seen
 *://*.facebook.com/*change_read_status*
 *://*.messenger.com/*change_read_status*
 
-
-
-
-!block_chat_receipts
+! block_chat_receipts
 *://*.facebook.com/*delivery_receipts*
 *://*.messenger.com/*delivery_receipts*
 
-
-
-!block_unread_threads
+! block_unread_threads
 *://*.facebook.com/*unread_threads*
 *://*.messenger.com/*unread_threads*
 
-
-
-!block_typing_indicator
+! block_typing_indicator
 *://*.facebook.com/*typ.php*
 *://*.messenger.com/*typ.php*
+
