@@ -1,0 +1,8 @@
+*://*.facebook.com/*change_read_status*
+*://*.messenger.com/*change_read_status*
+*://*.facebook.com/*delivery_receipts*
+*://*.messenger.com/*delivery_receipts*
+*://*.facebook.com/*unread_threads*
+*://*.messenger.com/*unread_threads*
+*://*.facebook.com/*typ.php*
+*://*.messenger.com/*typ.php*
