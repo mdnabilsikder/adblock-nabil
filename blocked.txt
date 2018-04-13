@@ -1,4 +1,7 @@
 
+!block_online
+*://*-edge-chat.facebook.com/*
+
 
 
 !block_chat_seen
