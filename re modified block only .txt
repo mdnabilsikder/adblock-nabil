@@ -1,0 +1,15 @@
+[Adblock Plus 2.0]
+! Title: Facebook-Block
+! Homepage: https://fb.me/mdnabilsikder
+!
+! block_chat_seen
+*://*.facebook.com/*change_read_status*
+*://*.messenger.com/*change_read_status*
+
+! block_chat_receipts
+*://*.facebook.com/*delivery_receipts*
+*://*.messenger.com/*delivery_receipts*
+
+! block_typing_indicator
+*://*.facebook.com/*typ.php*
+*://*.messenger.com/*typ.php*
