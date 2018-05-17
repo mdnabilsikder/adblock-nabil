@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: Facebook-Block
+! Title: Facebook Re-Block
 ! Homepage: https://fb.me/mdnabilsikder
 !
 ! block_chat_seen
