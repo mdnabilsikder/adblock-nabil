@@ -1,9 +1,11 @@
-[Adblock Plus 2.0]
-! Title: Facebook-Block
+[Adblock Plus 2.1]
+! Title: Facebook| Messenger-Block
 ! Homepage: https://fb.me/mdnabilsikder
 !
 ! block_online
 *://*-edge-chat.facebook.com/*
+||*-edge-chat.facebook.com^$xmlhttprequest
+||*-edge-chat.messenger.com^$xmlhttprequest
 
 ! block_chat_seen
 *://*.facebook.com/*change_read_status*
