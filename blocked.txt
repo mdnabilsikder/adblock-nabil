@@ -1,5 +1,5 @@
 [Adblock Plus 2.1]
-! Title: Facebook| Messenger-Block
+! Title: Facebook | Messenger-Block
 ! Homepage: https://fb.me/mdnabilsikder
 !
 ! block_online
