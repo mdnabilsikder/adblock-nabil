@@ -1,4 +1,4 @@
-[Adblock Plus 2.1]
+[Adblock Plus 2.2]
 ! Title: Facebook | Messenger-Block
 ! Homepage: https://fb.me/mdnabilsikder
 !
